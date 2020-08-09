@@ -13,7 +13,7 @@ So far... you need to know a little JavaScript. Hooray, right? The templates giv
 
 ## Cloud Research
 
-No screenshots this go-round. Anyway. I didn't even get to do much work in the cloud today. I wrote the script for my chat bot.
+No screenshots this go-round. Today I simply wrote the script for my chat bot.
 
 ## Try yourself
 
