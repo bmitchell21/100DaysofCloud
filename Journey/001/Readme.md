@@ -17,7 +17,7 @@ No screenshots this go-round. Anyway. I didn't even get to do much work in the c
 
 ## Try yourself
 
-I don't have a detailed tutorial for this specific step as my code will be display. View this [https://docs.kommunicate.io/docs/web-installation](Kommunicate) installation tutorial for first steps. I used ReactJS :)
+I don't have a detailed tutorial for this specific step as my code will be on display. View this [https://docs.kommunicate.io/docs/web-installation](Kommunicate) installation tutorial for first steps. I used ReactJS :)
 
 
 ## ☁️ Cloud Outcome
